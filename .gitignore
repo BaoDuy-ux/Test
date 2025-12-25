@@ -23,3 +23,7 @@ UserSettings/
 .DS_Store
 Thumbs.db
 
+# Backend build folders
+backend/bin/
+backend/obj/
+
